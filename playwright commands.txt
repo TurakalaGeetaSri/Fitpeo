@@ -1,0 +1,12 @@
+ npx playwright codegen github.com --target javascript -o ./tests/Output/record2.spec.js     // record nd save
+
+npx playwright test ./tests/Output/record2.spec.js --headed   //execute saved script
+
+import {test,expect} from '@playwright/test'
+test('record2',async () => {}
+
+await expect(page.getByRole('heading', { name: 'Made for people. Built for' })).toBeVisible
+3 ways to open playwright inspector
+1.codegen
+2.--debug
+3.page.pause()

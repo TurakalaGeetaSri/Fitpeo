@@ -1,0 +1,307 @@
+sudo systemctl restart splice   -- restart only after exiting to catalina
+sudo systemctl restart squid
+grep BL_8027_7601 targeting.log
+Default Sessions
+
+BL_0308_8964
+yarn install --network-timeout 100000
+az login
+npx au azureKeyVault --buildType protractor
+
+9543376365-- daily    
+7000376365-- hourly
+9987689200-- weekly
+
+Printed the coupon against the CID - 7258038719
+
+Github catalina
+GeetaSri.Turakala@catalina.com
+Hwert@6543
+
+start_order -t 1 -o 123 -m 0
+priced_item -t 1 -p 300 -q 1 -u 136984921
+cust_ident -t 1 -c 9777106052
+order_total -t 1 -a 300 -T 1
+order_tender -t 1 -a 300 -T 1
+end_order -t 1
+
+mongo dev1
+
+echo set  config/endpoint/api_sync "http://10.166.115.22:18622/targeting/rest/store/sync" | sudo redis-cli
+echo set  config/endpoint/api_font "http://10.166.115.22/dmp/rest/fonts" | sudo redis-cli 
+echo set  config/endpoint/ads "tcp://10.166.115.22:18621" | sudo redis-cli
+echo set  config/endpoint/api_template "http://10.166.115.22/dmp/rest/templates" | sudo redis-cli
+echo set  config/endpoint/pos_offline "tcp://10.166.115.22:18623" | sudo redis-cli
+echo set  config/endpoint/pos_realtime "tcp://10.166.115.22:18620"  | sudo redis-cli
+echo set  config/endpoint/http_proxy "http://10.166.115.22:18622" | sudo redis-cli
+echo set  config/endpoint/touchpoints "http://10.166.115.22/dmp/rest/store/telemetry" | sudo redis-cli
+echo set config/endpoint/networks "http://10.166.115.22/dmp/rest/networks" | sudo redis-cli
+echo set config/endpoint/configuration "http://10.166.115.22/dmp/rest/store/configuration" | sudo redis-cli 
+echo set config/endpoint/api_retailer_lane_mapping "http://10.166.115.22/dmp/rest/lanes/update" | sudo redis-cli
+echo set config/endpoint/synced_promotion_ids "http://10.166.115.22:18622/targeting/rest/store/synced"  | sudo redis-cli 
+UAT
+ 
+echo set  config/endpoint/api_sync "http://10.166.155.40:18622/targeting/rest/store/sync" | sudo redis-cli
+echo set  config/endpoint/api_font "http://10.166.155.40/dmp/rest/fonts" | sudo redis-cli 
+echo set  config/endpoint/ads "tcp://10.166.155.40:18621" | sudo redis-cli
+echo set  config/endpoint/api_template "http://10.166.155.40/dmp/rest/templates" | sudo redis-cli
+echo set  config/endpoint/pos_offline "tcp://10.166.155.40:18623" | sudo redis-cli
+echo set  config/endpoint/pos_realtime "tcp://10.166.155.40:18620"  | sudo redis-cli
+echo set  config/endpoint/http_proxy "http://10.166.155.40:18622" | sudo redis-cli
+echo set  config/endpoint/touchpoints "http://10.166.155.40/dmp/rest/store/telemetry" | sudo redis-cli
+echo set config/endpoint/networks "http://10.166.155.40/dmp/rest/networks" | sudo redis-cli 
+echo set config/endpoint/configuration "http://10.166.155.40/dmp/rest/store/configuration" | sudo redis-cli 
+echo set config/endpoint/api_retailer_lane_mapping "http://10.166.155.40/dmp/rest/lanes/update" | sudo redis-cli
+echo set config/endpoint/synced_promotion_ids "http://10.166.155.40:18622/targeting/rest/store/synced"  | sudo redis-cli
+ 
+Keep this handy to point your store VM machine to the Devenv
+MongoDB Dev Env
+echo set  config/endpoint/api_sync "http://10.166.115.22:18622/targeting/rest/store/sync" | sudo redis-cli
+echo set  config/endpoint/api_font "http://10.166.115.22/dmp/rest/fonts" | sudo redis-cli 
+echo set  config/endpoint/ads "tcp://10.166.115.22:18621" | sudo redis-cli
+echo set  config/endpoint/api_template "http://10.166.115.22/dmp/rest/templates" | sudo redis-cli
+echo set  config/endpoint/pos_offline "tcp://10.166.115.22:18623" | sudo redis-cli
+echo set  config/endpoint/pos_realtime "tcp://10.166.115.22:18620"  | sudo redis-cli
+echo set  config/endpoint/http_proxy "http://10.166.115.22:18622" | sudo redis-cli
+echo set  config/endpoint/touchpoints "http://10.166.115.22/dmp/rest/store/telemetry" | sudo redis-cli
+echo set config/endpoint/networks "http://10.166.115.22/dmp/rest/networks" | sudo redis-cli 
+echo set config/endpoint/configuration "http://10.166.115.22/dmp/rest/store/configuration" | sudo redis-cli 
+echo set config/endpoint/api_retailer_lane_mapping "http://10.166.115.22/dmp/rest/lanes/update" | sudo redis-cli
+echo set config/endpoint/synced_promotion_ids "http://10.166.115.22:18622/targeting/rest/store/synced"  | sudo redis-cli
+
+targeting - http://vm-dev-eastus2-cmp-edge-node-01.catmktg.com:8686/targeting/manage/hawtio/jmx/operations?nid=…
+dmp - http://vm-dev-eastus2-cmp-edge-node-01.catmktg.com:8181/dmp/manage/hawtio/jmx/operations?nid=root-c…
+proxy - http://vm-dev-eastus2-cmp-edge-node-01.catmktg.com:8282/proxy/manage/hawtio/jmx/operations?nid=root…
+
+http://vm-uat-eastus-cmp-edge-node-01.catmktg.com/dmp/rest/campaigns
+ 
+replace with http://10.141.121.18/dmp/rest/campaigns
+ 
+https://eui-us-uat.catmktg.com/route-us/dmp/rest/placements/bulk
+ 
+replace with 
+ 
+https://eui-us-dev-mongo.catmktg.com/route-us/dmp/rest/placements/bulk
+ 
+
+vm -- 
+10.8.70.55  --- 3000
+dmp-edge-node-01-uat-v02-eastus.catmktg.com
+sudo redis-cli
+set "config/pk_chain" "229"
+set "config/pk_store" "8236"
+set "nosync/config/network_id" "94"   
+get "nosync/config/network_id"
+sudo systemctl restart splice
+
+// wallgrens -- 34    Hnnaford -- 94//ppl
+
+sudo redis-cli
+set "config/pk_chain" "390"
+set "config/pk_store" "5486"
+set "config/pk_country_code" "USA"
+get "config/pk_country_code"
+get "nosync/config/network_id"
+set "nosync/config/network_id" "34"
+sudo systemctl restart splice
+
+sudo redis-cli
+set "config/pk_chain" "389"
+set "config/pk_store" "8859"
+set "config/pk_country_code" "USA"
+get "config/pk_country_code"
+get "nosync/config/network_id"
+set "nosync/config/network_id" "34"
+sudo systemctl restart splice
+
+
+
+get "nosync/config/network_id"
+
+sudo redis-cli
+set "config/pk_chain" "601"
+set "config/pk_store" "0031"
+set "config/pk_country_code" "GBR"
+set "nosync/config/network_id" "03"
+sudo systemctl restart splice
+
+sudo redis-cli
+set "config/store/printer_type" TEST
+sudo systemctl restart splice
+display
+5-create
+3-install printers
+clear_printers
+
+2025-10-07T11:07:37.092Z DEBUG 3782731 --- [targeting] [pool-9-thread-1] c.c.p.a.cache.CachePromotionRepository   : Promotion message received [USA-BLIP-BL_4085_7103] published: 2025-10-07T11:07:36Z enriched: null
+2025-10-07T11:07:37.093Z DEBUG 3782731 --- [targeting] [pool-9-thread-1] c.c.p.a.cache.CachePromotionRepository   : Cleared promotion:USA-BLIP-BL_4085_7103 from PromotionCache
+2025-10-07T11:07:37.578Z DEBUG 3782731 --- [targeting] [pool-9-thread-1] c.c.p.a.cache.CachePromotionRepository   : Promotion message received [USA-BLIP-BL_4085_7103] published: 2025-10-07T11:07:36Z enriched: 2025-10-07T11:07:39Z
+
+Cat#SQA25
+npx cypress run --config-file cypress\e2e\features\eu_uk\UK_E2E.feature --browser chrome --headed
+npx cypress run --config-file cypress.eu_uk.config.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.eu_france.conf.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.us_e2e.config.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.eu_france.conf.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.us_e2e.config.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.us_functional_batch2.config.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.eu_italy.conf.js --browser chrome --headed --no-exit
+npx cypress run --config-file cypress.eu_france.conf.js --browser chrome --headed --no-exit
+cypress\e2e\features\eu_france\Audience_France.feature
+cypress\e2e\features\eu_france\France_AudienceSegment.feature
+cypress\e2e\features\eu_france\France_crash_sceanrioes.feature
+cypress\e2e\features\eu_france\France_E2E.feature
+cypress\e2e\features\eu_france\France_varibaletemplate.feature
+CypressMigrationCMPDashboard\cypress.us_functional_batch1.config.js
+artifacts\PILOT_DIPTHONG_EU_AudienceEncryptedList_04.03.2025.txt
+cypress\e2e\features\eu_uk\UK_E2E.feature
+C:\Users\csauto4\Desktop\GEETASRI\CypressMigrationCMPDashboard-1\cypress\e2e\features\eu_uk\UK_E2E.feature
+cypress\e2e\features\eu_france\Audience_France.feature --no-exit
+
+added 99 packages, removed 157 packages, changed 256 packages, and audited 792 packages in 44s
+
+67 packages are looking for funding
+  run `npm fund` for details
+
+22 vulnerabilities (1 low, 10 moderate, 8 high, 3 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+
+
+http://vm-uat-eastus-cmp-edge-node-01.catmktg.com/dmp/rest/profiles/USA-0094-9745749411
+http://10.141.121.18/dmp/rest/profiles/USA-0094-9745749411
+
+http://10.166.115.22/dmp/rest/profiles/USA-0034-9745749411
+http://10.141.121.18/targeting/rest/budget/promotion/USA-BLIP-BL_0601_0453/distribution
+http://10.166.115.22/dmp/rest/profiles/USA-0034-9872356001
+
+
+cash-1
+check-2
+FS-3
+wic -4
+eft-5
+charge-6
+
+https://catalina.tpondemand.com/restui/board.aspx#page=testplanrun/658722&appConfig=eyJhY2lkIjoiQTQ5MUQ2RjAzOEU3NUI5RTA2MzMwNDE5REQ1RTRCNEIifQ==
+
+http://storepc-cred.catmktg.com
+us-01-198-8003.spc.catmktg.com  10.8.70.54  --- 3000
+us-01-198-8001.spc.catmktg.com  10.8.70.55  --- 3000
+http://vm-uat-eastus-cmp-edge-node-01.catmktg.com/dmp/rest/profiles/USA-0094-8976543101
+http://vm-uat-eastus-cmp-edge-node-01.catmktg.com/targeting/rest/budget/promotion/USA-BLIP-BL_0601_0453/distribution
+http://10.141.121.18/targeting/rest/budget/promotion/USA-BLIP-BL_0601_0453/distribution
+
+
+   pc name - us-01-198-8001.spc.catmktg.com
+54- us-01-198-8001.spc.catmktg.com
+55- us-01-198-8003.spc.catmktg.com ---Geeta
+56- us-01-198-8004.spc.catmktg.com ---Saswat
+57- us-01-198-8005.spc.catmktg.com ----saroj
+
+
+Login to server using putty : vm-uat-eastus-cmp-edge-node-01.catmktg.com
+ 
+Use the same ppk file for authentication
+ 
+Navigate to the location : cd /opt/proxy/logs
+ 
+tail -f proxy.log will tail the logs
+ 
+cat proxy.log | grep -i 'Targeting Request' will give you the list of targeting request
+ 
+cat proxy.log | grep -i 'you can use this to search any unique variable you want inside this quotes' like
+ 
+cat proxy.log | grep -i '7645009924'
+
+when you go to cd /opt/targeting/logs 
+ 
+Enter ls
+ 
+This will list the files inside that folder
+ 
+If you see app.log, you can use that.  Or targeting.log, we need to use that
+   
+
+If coupoun published  clear the cache
+
+targeting - http://vm-uat-eastus-cmp-edge-node-01.catmktg.com:8686/targeting/manage/hawtio/jmx/operations?nid=root-com.catalina.platform.api.cache.management-CacheInvalidationManager-cacheInvalidationManager
+ 
+dmp - http://vm-uat-eastus-cmp-edge-node-01.catmktg.com:8181/dmp/manage/hawtio/jmx/operations?nid=root-com.catalina.platform.api.cache.management-CacheInvalidationManager-cacheInvalidationManager
+ 
+proxy - http://vm-uat-eastus-cmp-edge-node-01.catmktg.com:8282/proxy/manage/hawtio/jmx/operations?nid=root-com.catalina.platform.api.cache.management-CacheInvalidationManager-cacheInvalidationManager
+ 
+
+https://eui-us-uat.catmktg.com/
+ 
+https://catalina.tpondemand.com/restui/board.aspx#page=board/5557531137867589467&appConfig=eyJhY2lkIjoiQTQ5MUQ2RjAzOEU3NUI5RTA2MzMwNDE5REQ1RTRCNEIifQ==&searchPopup=page=testplanrun/658419/run&appConfig=eyJhY2lkIjoiQTQ5MUQ2RjAzOEU3NUI5RTA2MzMwNDE5REQ1RTRCNEIifQ==
+
+user : rmahendr@catmktg.com
+pass: Global@31 
+
+
+
+
+open new session
+dmp-edge-node-01-uat-v02-eastus.catmktg.com
+vm-uat-eastus-cmp-edge-node-01.catmktg.com
+host name:dmp-edge-node-01-uat-v02-eastus.catmktg.com
+ssh >> Auth >> credentials >> browse the LON.PPK File
+1.login as vagrant
+2.then go to cd /opt/targeting/logs
+3.tail -f app.log   
+it will show warn chane to debug mode by following below steps
+4.go to targeting Hawito >> spring Boot >> search catalina >> com.catalina.platform >> change from warn to debug 
+cntrl c - to break logs 
+then grep BL_3435_7849 app.log
+5.once execute the script
+6.copy the BudgetCapDistributionRule log 
+
+
+lodge occurs
+targeting cache url >com.catalina.platform.targeting.methods.configuration>LodgeFilterConfiguration>Operations>isEnabled>execute
+if true - lodge is on
+if false - lodge is off
+
+postman
+Sri1234#@12
+
+Login to server using putty : vm-uat-eastus-cmp-edge-node-01.catmktg.com
+
+login as cmpadmin
+ 
+Use the same ppk file for authentication
+ 
+Navigate to the location : cd /opt/proxy/logs
+ 
+tail -f proxy.log will tail the logs
+ 
+cat proxy.log | grep -i 'Targeting Request' will give you the list of targeting request
+ 
+cat proxy.log | grep -i 'you can use this to search any unique variable you want inside this quotes' like
+ 
+cat proxy.log | grep -i '45789877238'
+cat proxy.log | grep -i '831263820'
+cat proxy.log | grep -i '9623775244'
+
+grep BL_6112_4535 targeting.log
+
+when you go to cd /opt/targeting/logs 
+ 
+Enter ls
+ 
+This will list the files inside that folder
+ 
+If you see app.log, you can use that.  Or targeting.log, we need to use that
+ 
+
+

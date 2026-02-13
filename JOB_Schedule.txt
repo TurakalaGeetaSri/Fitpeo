@@ -1,0 +1,6 @@
+GA3 Coleman 00 05
+GA3(40 05) GA4(18 05) Exofficio      
+GA3(15 08) GA4(00 06) - (30 10) Foodsaver
+GA3(15 07)  - (00 09 )   GA4(30 06)  - (20 09 ) Gracobaby
+GA3(55 07) - (50 09) GA4(35 07) - (10 10) YCC US
+GA4_YCC_US, graco
